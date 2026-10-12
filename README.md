@@ -1,6 +1,6 @@
 # Asistente Trazable para Revisiones de Alcance · Traceable Assistant for Scoping Reviews
 
-**Darwin Pillo** (PUCE Ibarra) · **Julianna Montes de Oca** (Universidad UTE)
+**Darwin Pillo** (UTPL) · **Julianna Montes de Oca** (Universidad UTE)
 Vibe Coding CEDIA 2026 · Proyecto final · Guía 08 · Registro VC-2026-035 / VC-2026-014
 
 > Narración generada con voz de IA (ElevenLabs) y revisada por los autores.
